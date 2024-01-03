@@ -1,10 +1,10 @@
 {
   "type": "service_account",
   "project_id": "telemedicineflutterbot-nraj",
-  "private_key_id": "2eaaf67bf4bae0ea7860c7e8a03be9591812ad5b",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDABhDvkoOPG4L+\nDKLBU8qaNMaK82OEld2/CcF6cLLE0pMAtIa1t7CL95zX1/t1CqP4UuDj4HaxzX32\nL/dgqok9HupAIaMOqi2mMyxB9DkD2yURh/wXwHtsDn+7Qknvu4xS0cuTub2LnRaF\nvDs9pdIvqtBhw+HTFTuBzz+0aDVN9xxlP/Z2vuxLXxF67zXpTMZuMS0/N7x+Ygc9\nPnQ6YpC1Zr4SOo56hgDjeoeitaZrDz+7yXHFhpIVRPVTAshuIGyg2SYbT9OPdtzz\nZ+OwW+rpGwI7PLkxJknPRm9TrsoI/NFuv+1z9MmDwOebyWbfbxQ868aXlJuiawkS\n8pBMcI3pAgMBAAECggEAAVtE0GjZ/Djy9RM9bTPBTyzsBNeF4C4HjXkDmHc2TH2a\noczErlqauRrOoHfTXCiiXA4O1JriQvmLO1USdu8uR5Ch0dvpX41F3W77XMhqRJiu\nQEhUOGeihfk4v24iYLrArPJnN4pE5UxFHryW9D9Ctu9xAZEAde0OmQlJjCW+NnU/\n+z866LI5QZFGK/J71fOjUFDqMgpBwyL5c5a68fa9v5zRCd9fWR8HxT902h9t1+HT\n9LWewMQ83YXjwT/gqxAwLgAsDzL3+TWvX5JWCXMGfZN9WmaRJNZWaWhO+0fEXYGC\nXUq+a8G2CcCfUR7jKXBmwYRiAY6v3jA3hcMUzs23oQKBgQDl9+l7oMCrD+CkEfc4\nDgNd0Ig1g8akiFCNPLHufnyWZTWuuvXiYeTIynasnQ88o6zi69MZBQjI2VfA0CN/\n3/YlHjYIWfxp1pVnnoj5G/n78EoLltoFE1NpRFWLpqzwJ5Tn12hGUmeFZ1nZgQsj\nKXpK3PCSLK+YuV9H1OCklMEG4QKBgQDVwpTyEGhdIib4oUT4mQtqN5kekuxip2fB\nqBZzIXDGLqWs77kcdVC6iSpJCsZ2GnPbJ1A1EQ+GYIPW+P22mLkNxm1kWsfIHznp\nTuTM7BKsoafEQqQs5Czz1+LPI9mOwAkyCkuT42WYWEDO6BrZ4E3zrcl0V+6wEKi3\nXsZO7KFQCQKBgQDXLZNwtEfTSDYADzdtYd9QhvEMcdMK3OnSXfp3mC7nYqhKaHHu\nc37pSlikxwkcymHYqqSJgqZnmMZ9icPNwTfGH3Cbe+es+LYvkK3FuaG9VWdTVMGH\ngj/H/cK1uy2SQNcZ3/qX4j8vGjd+Rzqumf7t0bHgdKORmdJHmi7gkLfUwQKBgHB5\ntk24fHGk6sSgdt4oCW2WW6dOv7sZQusPOuDRk7l0ChD5AnoK8LN2QR214b97I8MI\n6JdDptuaJUUUNsvBiH3LDvxjGAQhCiPNM27wONNFLDWEq0ZDubOEwP8lafBG84+1\nAxeJ64dByLgWQSqrb9jsdLgXHKzf1ybFY6tbr3WhAoGAfb9/VaLT2RYa7YcPHwyX\nx9qj2OQljszobz0cpgX/zTrtpSwk+dG/R2m2DaIfF/ZXnW4CTV80703hFkBxA+nz\n0aXaU7xEOK2D0St6ZciUtWc8ZAFdQNWPzftoht8ovWYEzg8HXxSykm0HuS8eSzKJ\nJd0KYNKJtEhFzMFwN8JWVcQ=\n-----END PRIVATE KEY-----\n",
+  "private_key_id": "******************************************",
+  "private_key": "********************************************",
   "client_email": "telemedbot@telemedicineflutterbot-nraj.iam.gserviceaccount.com",
-  "client_id": "104092052969665291427",
+  "client_id": "*************************************",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
